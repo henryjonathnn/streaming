@@ -20,14 +20,54 @@
   <div class="register-logo">
     <a href="<?= base_url('landing_page'); ?>"><b>Hyura</b>Movies</a>
   </div>
-
   <div class="card">
     <div class="card-body register-card-body">
       <p class="login-box-msg">Register a new account</p>
 
-      <form action="../../index.html" method="post">
+      <!-- JS -->
+
+      <!--  -->
+      <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "error term"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Error !",
+            "Term belum dicentang",
+            "error"
+          )
+        </script>
+     <?php } ?>
+
+     <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "error password"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Error !",
+            "Password tidak sama",
+            "error"
+          )
+        </script>
+     <?php } ?>
+     
+     <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "error register"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Error !",
+            "Gagal Register",
+            "error"
+          )
+        </script>
+     <?php } ?>
+      <form action="<?= base_url('user/tambah_user') ?>" method="post">
         <div class="input-group mb-3">
-          <input type="text" class="form-control" placeholder="Full name">
+          <input name="nama_lengkap" type="text" class="form-control" placeholder="Full name" required>
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-user"></span>
@@ -35,7 +75,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="email" class="form-control" placeholder="Email">
+          <input name="username" type="email" class="form-control" placeholder="Email"required>
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-envelope"></span>
@@ -43,7 +83,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Password">
+          <input name="password" type="password" class="form-control" placeholder="Password"required>
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
@@ -51,7 +91,7 @@
           </div>
         </div>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="Retype password">
+          <input name="retype-password" type="password" class="form-control" placeholder="Retype password"required>
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>

@@ -38,7 +38,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2">
                             <div class="logo theme-logo">
-                                <a href="index.html"><img src="assets/media/logo.svg" alt="Logo"></a>
+                                <a href="index.html"><h1>Hyura Movies</h1></a>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -63,11 +63,9 @@
                                                     <li><a href="contact.html">Contact Us</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="blog-category.html">Fashion</a></li>
-                                            <li><a href="blog-category.html">Lifestyle</a></li>
-                                            <li><a href="blog-category.html">Travel</a></li>
                                             <li><a href="contact.html">Contact</a></li>
                                             <li><a href="<?=base_url('admin/login') ?>">Login</a></li>
+                                            <li><a href="<?=base_url('admin/dashboard') ?>">Film</a></li>
                                         </ul>
                                     </nav>
                                 </div>

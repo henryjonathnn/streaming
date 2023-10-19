@@ -9,8 +9,45 @@
         <div class="card">
             <div class="card-body login-card-body">
                 <p class="login-box-msg">Sign in to start your session</p>
+                <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "success register"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Berhasil !",
+            "Sign Up Berhasil!",
+            "success"
+          )
+        </script>
+     <?php } ?>
 
-                <form action="../../index3.html" method="post">
+     <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "error kosong"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Erorr !",
+            "Username dan Password kosong",
+            "error"
+          )
+        </script>
+     <?php } ?>
+     
+     <?php
+      $message = $this->session->flashdata('message');
+      if ($message == "error password"){
+        ?>
+        <script type="text/javascript">
+          Swal.fire(
+            "Erorr !",
+            "Password kosong",
+            "error"
+          )
+        </script>
+     <?php } ?>
+                <form action="<?= base_url()?>user/login" method="post">
                     <div class="input-group mb-3">
                         <input type="email" class="form-control" placeholder="Email">
                         <div class="input-group-append">

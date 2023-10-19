@@ -135,18 +135,42 @@
                                 <div class="post-block-style-inner">
                                     <div class="post-block-media-wrap">
                                         <a href="post-single.html">
-                                        <img src="assets/media/team-mate.jpg" alt="Post title">
+                                        <img src="assets/media/1917 Movie.jpg" alt="Post title">
                                         </a>
                                     </div>
                                     <div class="post-block-content-wrap">
                                         <div class="post-item-title">
                                             <h2 class="post-title">
-                                                <a href="post-single.html">Michelle Tea’s Punk Parenting Memoir</a>
+                                                <a href="post-single.html">1917 Movie</a>
                                             </h2>
                                         </div>
                                         <div class="post-bottom-meta-list">
                                             <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
+                                                Coming <a href="javascript:void(0)">Soon</a>
+                                            </div>
+                                            <div class="post-meta-date-box">
+                                                on Sep 22
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </article>
+                            <article class="post-block-style-wrapper post-block-template-one post-block-template-small">
+                                <div class="post-block-style-inner">
+                                    <div class="post-block-media-wrap">
+                                        <a href="post-single.html">
+                                        <img src="assets/media/Captain America Movie.jpg" alt="Post title">
+                                        </a>
+                                    </div>
+                                    <div class="post-block-content-wrap">
+                                        <div class="post-item-title">
+                                            <h2 class="post-title">
+                                                <a href="post-single.html">Captain America</a>
+                                            </h2>
+                                        </div>
+                                        <div class="post-bottom-meta-list">
+                                            <div class="post-meta-author-box">
+                                                Rating <a href="javascript:void(0)">★★★★★</a>
                                             </div>
                                             <div class="post-meta-date-box">
                                                 Sep 22
@@ -159,18 +183,18 @@
                                 <div class="post-block-style-inner">
                                     <div class="post-block-media-wrap">
                                         <a href="post-single.html">
-                                        <img src="assets/media/team-mate.jpg" alt="Post title">
+                                        <img src="assets/media/Jurassic Park.jpg" alt="Post title">
                                         </a>
                                     </div>
                                     <div class="post-block-content-wrap">
                                         <div class="post-item-title">
                                             <h2 class="post-title">
-                                                <a href="post-single.html">A Design Lover's Guide Mexico City</a>
+                                                <a href="post-single.html">Jurassic Park</a>
                                             </h2>
                                         </div>
                                         <div class="post-bottom-meta-list">
                                             <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
+                                                Rating <a href="javascript:void(0)">★★★★★</a>
                                             </div>
                                             <div class="post-meta-date-box">
                                                 Sep 22
@@ -183,45 +207,21 @@
                                 <div class="post-block-style-inner">
                                     <div class="post-block-media-wrap">
                                         <a href="post-single.html">
-                                        <img src="assets/media/model-glass.jpg" alt="Post title">
+                                        <img src="assets/media/The Impossible.jpg" alt="Post title">
                                         </a>
                                     </div>
                                     <div class="post-block-content-wrap">
                                         <div class="post-item-title">
                                             <h2 class="post-title">
-                                                <a href="post-single.html">Education vs. Fuel: a lose-lose situation</a>
+                                                <a href="post-single.html">The Impossible</a>
                                             </h2>
                                         </div>
                                         <div class="post-bottom-meta-list">
                                             <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
+                                                Rating <a href="javascript:void(0)">★★★★★</a>
                                             </div>
                                             <div class="post-meta-date-box">
-                                                Sep 22
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </article>
-                            <article class="post-block-style-wrapper post-block-template-one post-block-template-small">
-                                <div class="post-block-style-inner">
-                                    <div class="post-block-media-wrap">
-                                        <a href="post-single.html">
-                                        <img src="assets/media/model-glass.jpg" alt="Post title">
-                                        </a>
-                                    </div>
-                                    <div class="post-block-content-wrap">
-                                        <div class="post-item-title">
-                                            <h2 class="post-title">
-                                                <a href="post-single.html">Maddie Ziegler Takes a Lie Detector Test</a>
-                                            </h2>
-                                        </div>
-                                        <div class="post-bottom-meta-list">
-                                            <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
-                                            </div>
-                                            <div class="post-meta-date-box">
-                                                Sep 22
+                                                Oct 23
                                             </div>
                                         </div>
                                     </div>
@@ -233,21 +233,21 @@
                                 <div class="post-block-style-inner">
                                     <div class="post-block-media-wrap">
                                         <a href="post-single.html">
-                                        <img src="assets/media/red-woman.jpg" alt="Post title">
+                                        <img src="assets/media/LOR Movie.jpg" alt="Post title">
                                         </a>
                                     </div>
                                     <div class="post-block-content-wrap">
                                         <div class="post-item-title">
                                             <h2 class="post-title">
-                                                <a href="post-single.html">Georgia’s voting law will make elections easier than ever</a>
+                                                <a href="post-single.html">Lord of the Rings</a>
                                             </h2>
                                         </div>
                                         <div class="post-excerpt-box">
-                                            <p>Tuesday’s primary is the first big test of the legislation, which was opposed by voting rights groups and Democrats.</p>
+                                            <p>The Lord of the Rings is the saga of a group of sometimes reluctant heroes who set forth to save their world from consummate evil. Its many worlds and creatures were drawn from Tolkien's extensive knowledge of philology and folklore.</p>
                                         </div>
                                         <div class="post-bottom-meta-list">
                                             <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
+                                                Rating <a href="javascript:void(0)">★★★★★</a>
                                             </div>
                                             <div class="post-meta-date-box">
                                                 Sep 22
@@ -260,13 +260,13 @@
                                 <div class="post-block-style-inner">
                                     <div class="post-block-media-wrap">
                                         <a href="post-single.html">
-                                        <img src="assets/media/red-woman.jpg" alt="Post title">
+                                        <img src="assets/media/Nightmare Alley.jpg" alt="Post title">
                                         </a>
                                     </div>
                                     <div class="post-block-content-wrap">
                                         <div class="post-item-title">
                                             <h2 class="post-title">
-                                                <a href="post-single.html">Should your architecture practice be employed</a>
+                                                <a href="post-single.html">Nightmare Alley</a>
                                             </h2>
                                         </div>
                                         <div class="post-excerpt-box">
@@ -274,7 +274,7 @@
                                         </div>
                                         <div class="post-bottom-meta-list">
                                             <div class="post-meta-author-box">
-                                                By <a href="javascript:void(0)">Laura Tanenbaum</a>
+                                                Rating <a href="javascript:void(0)">★★★★★</a>
                                             </div>
                                             <div class="post-meta-date-box">
                                                 Sep 22
@@ -295,21 +295,21 @@
                                     <div class="post-block-style-inner post-block-list-style-inner">
                                         <div class="post-block-media-wrap">
                                             <a href="post-single.html">
-                                            <img src="assets/media/yellow-diva.jpg" alt="Post title">
+                                            <img src="assets/media/JR.jpg" alt="Post title">
                                             </a>
                                         </div>
                                         <div class="post-block-content-wrap">
                                             <div class="post-category-box">
-                                                <a class="post-cat-item" href="blog-category.html">Politics</a>
+                                                <a class="post-cat-item" href="blog-category.html">Staring</a>
                                             </div>
                                             <div class="post-item-title">
                                                 <h2 class="post-title">
-                                                    <a href="post-single.html">Corporations Are People, Too</a>
+                                                    <a href="post-single.html">Jeremy Renner</a>
                                                 </h2>
                                             </div>
                                             <div class="post-bottom-meta-list">
                                                 <div class="post-meta-author-box">
-                                                    <a href="javascript:void(0)">Alisson</a>
+                                                    <a href="javascript:void(0)">★★★★★</a>
                                                 </div>
                                                 <div class="post-meta-date-box">
                                                     Sep 22
@@ -322,21 +322,21 @@
                                     <div class="post-block-style-inner post-block-list-style-inner">
                                         <div class="post-block-media-wrap">
                                             <a href="post-single.html">
-                                            <img src="assets/media/green-diva.jpg" alt="Post title">
+                                            <img src="assets/media/CH.webp" alt="Post title">
                                             </a>
                                         </div>
                                         <div class="post-block-content-wrap">
                                             <div class="post-category-box">
-                                                <a class="post-cat-item" href="blog-category.html">Lifestyle</a>
+                                                <a class="post-cat-item" href="blog-category.html">Staring</a>
                                             </div>
                                             <div class="post-item-title">
                                                 <h2 class="post-title">
-                                                    <a href="post-single.html">The UX design trends 2023</a>
+                                                    <a href="post-single.html">Chris Hemsworth</a>
                                                 </h2>
                                             </div>
                                             <div class="post-bottom-meta-list">
                                                 <div class="post-meta-author-box">
-                                                    <a href="javascript:void(0)">Tony Stark</a>
+                                                    <a href="javascript:void(0)">★★★★★</a>
                                                 </div>
                                                 <div class="post-meta-date-box">
                                                     Sep 22
@@ -354,16 +354,16 @@
                                         </div>
                                         <div class="post-block-content-wrap">
                                             <div class="post-category-box">
-                                                <a class="post-cat-item" href="blog-category.html">Lifestyle</a>
+                                                <a class="post-cat-item" href="blog-category.html">Staring</a>
                                             </div>
                                             <div class="post-item-title">
                                                 <h2 class="post-title">
-                                                    <a href="post-single.html">Five signs of smart person</a>
+                                                    <a href="post-single.html">Gal Gadot</a>
                                                 </h2>
                                             </div>
                                             <div class="post-bottom-meta-list">
                                                 <div class="post-meta-author-box">
-                                                    <a href="javascript:void(0)">Tony Stark</a>
+                                                    <a href="javascript:void(0)">★★★★★</a>
                                                 </div>
                                                 <div class="post-meta-date-box">
                                                     Sep 22
@@ -403,7 +403,7 @@
                                     <div class="post-block-style-inner post-block-list-style-inner">
                                         <div class="post-block-media-wrap">
                                             <a href="post-single.html">
-                                            <img src="assets/media/riding-boy.jpg" alt="Post title">
+                                            <img src="assets/media/Land Of Mine.jpg" alt="Post title">
                                             </a>
                                         </div>
                                         <div class="post-block-content-wrap">
@@ -412,7 +412,7 @@
                                             </div>
                                             <div class="post-item-title">
                                                 <h2 class="post-title">
-                                                    <a href="post-single.html">The Complicity of the books</a>
+                                                    <a href="post-single.html">Land Of Mine</a>
                                                 </h2>
                                             </div>
                                             <div class="post-bottom-meta-list">
@@ -429,7 +429,7 @@
                             </div>
                             <div class="ads-widget mt-40">
                                 <a href="post-single.html">
-                                <img src="assets/media/ads-sidebar.png" alt="Advertisement">
+                                <img src="assets/media/John Wick.jpg" alt="Advertisement">
                                 </a>
                             </div>
                         </div>
@@ -531,13 +531,13 @@
                                         <div class="post-block-style-inner">
                                             <div class="post-block-media-wrap">
                                                 <a href="post-single.html">
-                                                <img src="assets/media/cafe.jpg" alt="Post title">
+                                                <img src="assets/media/Land Of Mine.jpg" alt="Post title">
                                                 </a>
                                             </div>
                                             <div class="post-block-content-wrap">
                                                 <div class="post-item-title">
                                                     <h2 class="post-title">
-                                                        <a href="post-single.html">The Complicity of the Textbooks</a>
+                                                        <a href="post-single.html">Land Of Mine</a>
                                                     </h2>
                                                 </div>
                                                 <div class="post-excerpt-box">
